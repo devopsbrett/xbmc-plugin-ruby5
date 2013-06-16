@@ -1,0 +1,4 @@
+*.pyc
+test.py
+outputxml.xml
+build/*
