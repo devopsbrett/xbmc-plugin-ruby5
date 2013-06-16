@@ -1,2 +1,4 @@
 *.pyc
-*.png
+test.py
+outputxml.xml
+build/*
